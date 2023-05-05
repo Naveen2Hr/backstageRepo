@@ -7,9 +7,10 @@ metadata:
     - go
     - website
   links:
-    # - url: http://localhost:8082/BootMVCProj01/
-    #   title: My Dashboard
-    #   icon: dashboard
+    - url: http://localhost:8082/BootMVCProj01/
+      title: My Dashboard
+      icon: dashboard
+      
     - url: http://localhost:8082/BootMVCProj06-Employee/
       title: Employee
       icon: dashboard
