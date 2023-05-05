@@ -15,7 +15,7 @@ metadata:
       title: Employee
       icon: dashboard
 
-    - url: http://localhost:9902/swagger-ui.html#/
+    - url: http://localhost:9902/swagger-ui.html
       title: customer
       icon: dashboard
       
