@@ -4,7 +4,7 @@ metadata:
   name: backstage-demo
   description: This is a backstage demo proj.
   tags:
-    - go
+    - java
     - website
   links:
     - url: http://localhost:8082/BootMVCProj01/
