@@ -11,7 +11,7 @@ metadata:
       title: My Dashboard
       icon: dashboard
 
-    - url: http://localhost:8082/BootMVCProj06-Employee/
+    - url: http://localhost:4041/BootMVCProj06/
       title: Employee
       icon: dashboard
 
