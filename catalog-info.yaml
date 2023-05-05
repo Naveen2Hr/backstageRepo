@@ -7,10 +7,10 @@ metadata:
     - go
     - website
   links:
-    - url: http://localhost:8082/BackstageDemo/
+    - url: http://localhost:8082/BootMVCProj01/
       title: My Dashboard
       icon: dashboard
 spec:
   type: service
   lifecycle: production
-  owner: nandish
+  owner: sagar
